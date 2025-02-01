@@ -1,12 +1,11 @@
+
 # Deploy Nodejs project to Amazon EC2 with Github Actions
 
 After successfully connecting github to remote server follow this commands
 
-
 ## Step 1: Installation
 
 Step 1: Update Package Repositories
-
 Run the following command to update your package repositories:
 
 ```bash
@@ -86,3 +85,4 @@ These steps should help you set up a Node.js backend API with Nginx and PM2 on y
 ## Learn from Youtube
 
 https://www.youtube.com/watch?v=bLh79eCbnCs
+
