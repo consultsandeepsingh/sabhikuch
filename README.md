@@ -1,6 +1,6 @@
-Deploy Nodejs project to Amazon EC2 with Github Actions
+#Deploy Nodejs project to Amazon EC2 with Github Actions
 After successfully connecting github to remote server follow this commands
-Step 1: Update Package Repositories
+##Step 1: Update Package Repositories
 Run the following command to update your package repositories:
 
 sudo apt update
